@@ -65,7 +65,7 @@ This project is a simple **Twitter bot** built using **Python** and the **Tweepy
 ## ⚠️ Notes
 
 - Be careful with rate limits and spam policies when interacting with Twitter's API.
-- This bot is for **educational/demo purposes**. For production use, consider adding:
+- This bot is for **educational/demo purpose** only. For production use, consider adding:
   - Robust error handling
   - Logging
   - Proper scheduling (e.g., using `cron`, `APScheduler`, etc.)
