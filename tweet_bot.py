@@ -41,7 +41,6 @@ def reply():
             print("replied-"+str(tweet.id))
             store_seen(file,tweet.id)    
     
-
 while True:
     reply()
     time.sleep(15)
